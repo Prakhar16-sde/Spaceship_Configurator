@@ -43,6 +43,8 @@ spaceship-configurator/
 └── README.md
 
 
+
+
 ## 🛠️ Installation & Setup
 
 ### 1. Clone the repository
@@ -50,6 +52,9 @@ spaceship-configurator/
 ```bash
 git clone https://github.com/yourusername/spaceship-configurator.git
 cd spaceship-configurator
+
+
+
 2. Install dependencies
 Make sure you have Node.js (>=14) installed.
 
@@ -96,3 +101,7 @@ Let me know if you want me to include:
 - Contribution or issue templates
 
 Or if you'd like to convert this to TypeScript or add routing!
+
+
+
+
